@@ -2,7 +2,7 @@ import assert from 'assert';
 import isFromBellville from '../isFromBellville.js';
 
 
-// console.log(greet("hlananani"));
+// console.log(greet(Ceeya"));
 describe('Test Vehicle registration numbers function for Bellville ' , function(){
     it("It should returns true if a registration number ,'starts with CY'" , function(){
         
@@ -18,4 +18,4 @@ describe('Test Vehicle registration numbers function for Bellville ' , function(
     });
 
 });
-// console.log(greet('Hlanganani'))
+// console.log(greet('Ceejay'))
